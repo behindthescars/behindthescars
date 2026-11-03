@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<ing src="https://img.sanishtech.com/u/4eea1224754cf78496cbb302b1ca9ed5.png"
+<img src="https://img.sanishtech.com/u/4eea1224754cf78496cbb302b1ca9ed5.png"
 width="250">
 
 INSERT INFOㅤINSERT INFO INSERT INFOㅤINSERT INFO INSERT INFOㅤINSERT INFO INSERT INFOㅤINSERT INFO INSERT INFOㅤINSERT INFO INSERT INFOㅤINSERT INFO
