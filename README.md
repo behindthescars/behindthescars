@@ -1,7 +1,6 @@
 <br>
 
-</div>
-
+<div align="center">
 ${\textsf{\color{#AD4168}✦}}$
 
 <div align="center">
