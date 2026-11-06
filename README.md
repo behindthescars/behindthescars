@@ -2,7 +2,7 @@
 
 </div>
 
-${\textsf{\color{#AD4168}起こること.}}$
+${\textsf{\color{#AD4168}✦}}$
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/cb2d644ea0ba84581a65f69dc2ace611.gif"
