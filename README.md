@@ -3,7 +3,7 @@ ${\textsf{\color{#AD4168}✦}}$
 <br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/882c7049a2aefbabe55bc714b270f186.jpg"
+<img src="https://img.sanishtech.com/u/1b16d5aaa35a8146a1fe5b33082f810d.jpg"
 width="250">
 <br>
 
