@@ -1,4 +1,3 @@
 <div align="center">
-<img src="https://img.sanishtech.com/u/df9c5d3f9d32eb28dcb86f1355f63cf2.jpg"
+<img src="https://sanimgcdn.com/u/3fa67fe29c471af95a2233d30347cd2c.png"
 width="300">
-
